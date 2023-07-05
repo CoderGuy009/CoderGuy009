@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CoderGuy009
-- 👀 I’m interested in AI web Development
-- 🌱 I’m currently learning C,C++,DSA
+- 👋 Hi guys, I’m @CoderGuy009 aka. Aniket:)
+- 👀 I’m interested in Machine Learning,and web dev as a freelancer.
+- 🌱 I’m currently learning HTML,CSS & JS for frontend dev.Will move forward to backend after completion
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+- 📫 You can even contact to me in LinkedIn,Instagram as well.
+  
 
 <!---
 CoderGuy009/CoderGuy009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
