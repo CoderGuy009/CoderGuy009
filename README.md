@@ -1,9 +1,9 @@
 
 <# 👋 Hi, I'm CoderGuy009
 
-🎓 20 y/o | IT Student @ Heritage Institute of Technology, Kolkata  
-🚀 Aspiring ML Developer | Freelancer | Web Developer  
-🧠 Currently learning: JavaScript, React, and Machine Learning  
+🎓 22 y/o | IT Student @ Heritage Institute of Technology, Kolkata  
+🚀 Aspiring ML Engineer | NLP Enthusiasist  
+🧠 Currently learning: LLMs,Deep Learning and Machine Learning  
 📚 Building CollegeGPT – your AI-powered campus companion
 
 ## 🛠️ Tech Stack
