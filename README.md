@@ -1,40 +1,59 @@
+# 👋 Hi there, I'm Aniket Sahu
 
-<# 👋 Hi, I'm CoderGuy009
+🎓 IT Student @ Heritage Institute of Technology, Kolkata  
+🧠 AI & Machine Learning Enthusiast | GenAI Explorer | NLP Practitioner  
+🚀 Currently building: CollegeGPT (AI chatbot for college info) and Fake News Killer (Real-time misinformation detector)  
+🎯 Passionate about solving real-world problems using Deep Learning, LLMs, and cutting-edge AI research.
 
-🎓 22 y/o | IT Student @ Heritage Institute of Technology, Kolkata  
-🚀 Aspiring ML Engineer | NLP Enthusiasist  
-🧠 Currently learning: LLMs,Deep Learning and Machine Learning  
-📚 Building CollegeGPT – your AI-powered campus companion
+---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
+
+### 🤖 AI, Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+
+### 📚 NLP & GenAI
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-333?style=flat&logo=spacy)
+![Transformers](https://img.shields.io/badge/-Transformers-333?style=flat&logo=huggingface)
+![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=langchain)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
+
+### 🗄️ Data & Tools
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
+![Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab)
+
+---
+
+## 🚀 Featured Projects
+- **CollegeGPT** – Ask me anything about your college 🧠📚  
+- **Fake News Killer** – Real-time AI tool for detecting misinformation 🔍📰  
+
+---
 
 ## 📈 GitHub Stats
 ![CoderGuy009's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderGuy009&show_icons=true&theme=tokyonight)
-
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/aniket0916)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGuy009&layout=compact&theme=tokyonight)
 
 ---
-⭐️ Projects I'm working on:  
-- Fake News Killer 🔍  
-- CollegeGPT 🤖  
-!--
-**CoderGuy009/CoderGuy009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/your-link" target="_blank">
+  <img src="https://img.icons8.com/color/30/000000/instagram-new.png" alt="Instagram"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.icons8.com/color/30/000000/gmail-new.png" alt="Email"/>
+</a>
+
+---
+
+> “The future belongs to those who build it — one model at a time.” 💡
