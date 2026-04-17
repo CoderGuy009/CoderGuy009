@@ -3,7 +3,6 @@
 
 🎓 IT Student @ Heritage Institute of Technology, Kolkata  
 🧠 AI & Machine Learning Enthusiast | GenAI Explorer | NLP Practitioner  
-🚀 Currently building: CollegeGPT (AI chatbot for college info) and Fake News Killer (Real-time misinformation detector)  
 🎯 Passionate about solving real-world problems using Deep Learning, LLMs, and cutting-edge AI research.
 
 ---
